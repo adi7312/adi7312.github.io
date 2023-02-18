@@ -12,5 +12,3 @@ Programming skillset:
 
 Also I'm intersted in IoT and low-level systems.
 
-
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
