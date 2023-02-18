@@ -9,8 +9,8 @@ markdown: kramdown
 theme: minima
 
 minima:
-  # social_links:
-  - { platform: github,         user_url: "https://github.com/adi7312" }
+  skin: dark
+  - { platform: github, user_url: "https://github.com/adi7312" }
 
 
 header_pages:
