@@ -11,5 +11,6 @@ description: >
 markdown: kramdown
 theme: minima
 
-# header_pages:
-#   - about.md
+header_pages:
+   - CTF.md   
+   - NetSec.md
