@@ -15,3 +15,5 @@ minima:
 header_pages:
    - CTF.md   
    - NetSec.md
+   
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
