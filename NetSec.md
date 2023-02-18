@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NetSec projects
+title: NetSec
 permalink: /netsec/
 ---
 
