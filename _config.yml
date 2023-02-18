@@ -1,4 +1,16 @@
----
+title: adi7312 - Cybersecurity portfolio
+
+author: 
+  name: adi7312
+  email: zdrian.alewski@gmail.com
+
+
+description: >
+  Repository contains solutions to CTF tasks, cybersecurity projects and much more cyber staff!
+
+
 markdown: kramdown
 theme: minima
----
+
+# header_pages:
+#   - about.md
