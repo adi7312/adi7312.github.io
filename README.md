@@ -7,7 +7,6 @@ I'm student of Cybersecurity on Warsaw University of Technologies, especially I'
 
 Programming skillset:
 * Python - intermedtiate
-* Java - intermediate
 * C - beginner
 
 Also I'm intersted in IoT and low-level systems.
