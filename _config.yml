@@ -9,7 +9,8 @@ markdown: kramdown
 theme: minima
 
 minima:
-  - { platform: github, user_url: "https://github.com/adi7312" }
+  skin: dark
+
 
 
 header_pages:
