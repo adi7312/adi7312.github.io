@@ -4,6 +4,8 @@ title: CTFs
 permalink: /ctfs/
 ---
 
+<script src="https://tryhackme.com/badge/1373347"></script>
+
 I spend most of time on doing CTFs tasks, here you can find my solutions to some of them (for now most of them are in polish language).
 
 Next to name of CTF I placed information about difficulty of that CTF, but this is only my opininion about level of difficulty (for example CTF X could be easy for me, but not necessarly easy for you).
