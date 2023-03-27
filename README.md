@@ -11,3 +11,5 @@ Programming skillset:
 
 Also I'm intersted in IoT and low-level systems.
 
+<script src="https://tryhackme.com/badge/1373347"></script>
+
