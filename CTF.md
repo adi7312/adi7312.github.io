@@ -30,5 +30,5 @@ Walktroughs (EN):
 * [**Cyberdefenders - Malware Traffic Analysis 2** - Difficulty: **Medium**](https://adi7312.github.io/CTFs/CyberDefender%20-%20Malware%20Traffic%20Analysis%202)
 * [**THM-Overpass2** - Difficulty: **Hard**](https://adi7312.github.io/CTFs/THM-Overpass2/)
 * [**Vulnhub-LOTR** - Difficulty: **Medium**](https://adi7312.github.io/CTFs/Vulnhub%20-%20Lord%20Of%20The%20Root/)
-* [**Conducting Buffer Overflow**](https://adi7312.github.io/CTFs/BufferOverflow/)
-* [**HTB - Conducting SQLi**](https://adi7312.github.io/CTFs/HTB-SQLi/)
+* [**Conducting Buffer Overflow - Difficulty: **Medium****](https://adi7312.github.io/CTFs/BufferOverflow/)
+* [**HTB - Conducting SQLi - Difficulty: **Medium****](https://adi7312.github.io/CTFs/HTB-SQLi/)
