@@ -31,3 +31,4 @@ Walktroughs (EN):
 * [**THM-Overpass2** - Difficulty: **Hard**](https://adi7312.github.io/CTFs/THM-Overpass2/)
 * [**Vulnhub-LOTR** - Difficulty: **Medium**](https://adi7312.github.io/CTFs/Vulnhub%20-%20Lord%20Of%20The%20Root/)
 * [**Conducting Buffer Overflow**](https://adi7312.github.io/CTFs/BufferOverflow/)
+* [**HTB - Conducting SQLi**](https://adi7312.github.io/CTFs/HTB-SQLi/)
