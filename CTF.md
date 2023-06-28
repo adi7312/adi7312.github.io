@@ -33,3 +33,4 @@ Walktroughs (EN):
 * [**Vulnhub-LOTR** - Difficulty: **Medium**](https://adi7312.github.io/CTFs/Vulnhub%20-%20Lord%20Of%20The%20Root/)
 * [**Conducting Buffer Overflow** - Difficulty: **Medium**](https://adi7312.github.io/CTFs/BufferOverflow/)
 * [**HTB - Conducting SQLi** - Difficulty: **Medium**](https://adi7312.github.io/CTFs/HTB-SQLi/)
+* [**HTB - Buffer Overflow Linux** - Difficulty: **Medium**](https://github.com/adi7312/CTFs/tree/main/HTB-BufferOverflowLinux)
