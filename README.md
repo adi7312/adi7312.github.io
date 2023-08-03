@@ -3,13 +3,16 @@ title: About me
 permalink: /
 ---
 
-I'm student of Cybersecurity on Warsaw University of Technologies, especially I'm interested in penetration tests, red teaming and malware analysis. 
+I'm student of Cybersecurity at Warsaw University of Technology with commercial experience in the area of penetration testing. In context of security I'm interested in penetration tests, malware analysis and reverse engineering. In my spare time, I expand my knowledge in the area of operating systems and computer architecture.
 
-Programming skillset:
-* Python - intermedtiate
-* C - beginner
+Skillset:
+* Security  
+* Linux
+* C++
+* Python
+* Java
 
-Also I'm intersted in IoT and low-level systems.
+From time to time I upload writeups to some CTF tasks (web, pwn, re and much more).
 
 
 
