@@ -10,7 +10,9 @@ Skillset:
 * Linux
 * C++
 * Python
+* Bash
 * Java
+  
 
 From time to time I upload writeups to some CTF tasks (web, pwn, re and much more).
 
