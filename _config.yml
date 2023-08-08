@@ -16,3 +16,4 @@ minima:
 header_pages:
    - CTF.md   
    - NetSec.md
+   - Tools.md
