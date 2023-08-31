@@ -20,6 +20,7 @@ From time to time I write some walktroughs to some CTF tasks. Some old writeups 
 ## **Reversing**
 
 * [**Crakmes.one - cracknkeygen** - Difficulty: **Easy**](https://adi7312.github.io/CTFs/Crackmes%20-%20Keygen/)
+* [**Crakmes.one - P@ssw0rd** - Difficulty: **Easy**](https://adi7312.github.io/CTFs/Crakcmes%20-%20P%40ssword/)
 
 ## **Web:**
 
