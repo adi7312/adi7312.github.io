@@ -7,7 +7,7 @@ permalink: /ctfs/
 
 <script src="https://tryhackme.com/badge/1373347"></script>
 
-From time to time I write some walktroughs to some CTF tasks. Some old writeups are written in polish.
+I write some walktroughs to some CTF tasks. Some old writeups are written in polish.
 
 ## **Binary/pwn:**
 
