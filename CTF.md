@@ -26,6 +26,7 @@ I write some walktroughs to some CTF tasks. Some old writeups are written in pol
 * [**Crakmes.one - angry** - Difficulty: **Medium**](https://adi7312.github.io/CTFs/Crackmes%20-%20angry/)
 * [**RootMe - PRNG Challenge** - Difficulty: **Hard**](https://adi7312.github.io/CTFs/RootMe%20-%20PRNG%20Challenge/)
 * [**RootMe - RSA Factorisation** - Difficulty: **Medium**](https://adi7312.github.io/CTFs/RootMe%20-%20RSA%20Factorisation/)
+* [**picoCTF - Mini RSA** - Difficulty: **Easy**](https://adi7312.github.io/CTFs/picoCTF%20-%20Mini%20RSA/)
 
 ## **Web:**
 
