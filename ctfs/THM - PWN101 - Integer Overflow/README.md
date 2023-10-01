@@ -1,4 +1,4 @@
-# **THM - PWN 101 - Integer Overflow (PWN105)**
+**THM - PWN 101 - Integer Overflow (PWN105)**
 
 ## **Gathering information**
 
