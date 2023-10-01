@@ -1,4 +1,4 @@
-# **Cyberdefenders - RE101**
+-
 
 ## **Malware000**
 
