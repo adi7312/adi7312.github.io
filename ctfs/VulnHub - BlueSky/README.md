@@ -1,4 +1,4 @@
-# **CTF - BlueSky**
+**CTF - BlueSky**
 
 **Autor**: adi7312
 
