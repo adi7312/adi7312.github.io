@@ -1,4 +1,4 @@
-# **CTF - Empire Lupinone**
+**CTF - Empire Lupinone**
 
 **Autor**: adi7312
 
