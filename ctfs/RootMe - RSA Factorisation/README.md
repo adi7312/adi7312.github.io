@@ -1,4 +1,4 @@
-# **RootMe - RSA Factorisation**
+**RootMe - RSA Factorisation**
 
 ### **Task Overview**
 
