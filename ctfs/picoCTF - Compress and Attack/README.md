@@ -1,4 +1,4 @@
-# **picoCTF 2021- Compress and Attack**
+**picoCTF 2021- Compress and Attack**
 
 There is a script:
 ```python
