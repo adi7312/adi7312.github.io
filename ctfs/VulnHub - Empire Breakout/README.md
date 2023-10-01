@@ -1,4 +1,4 @@
-# **CTF - Empire Breakout I**
+**CTF - Empire Breakout I**
 
 `Autor: adi7312`
 
