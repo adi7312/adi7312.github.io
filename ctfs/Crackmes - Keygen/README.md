@@ -1,10 +1,3 @@
----
-layout: page
-title: null
-name: ""
----
-
-# **Crakmes.one - cracknkeygen**
 
 **Objective:** write keygen.
 
