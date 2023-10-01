@@ -16,9 +16,9 @@ I write some walktroughs to some CTF tasks. Some old writeups are written in pol
 * [**ROP Emporium - ret2win** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/ROP%20Emporium%20ret2win/)
 * [**THM - PWN101 - Integer Overflow** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/THM%20-%20PWN101%20-%20Integer%20Overflow/)
 * [**THM - PWN101 - Format String Attack** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/THM%20-%20PWN101%20-%20Format%20String/)
-* [**picoCTF - Buffer Overflow 1** - Difficulty: **Easy**](https://adi7312.github.io/ctfs/picoctf%20-%20buffer%20overflow%201/)
-* [**picoCTF - Buffer Overflow 2** - Difficulty: **Easy**](https://adi7312.github.io/ctfs/picoctf%20-%20buffer%20overflow%202/)
-* [**picoCTF - VNE** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/picoctf%20-%20VNE/)
+* [**picoCTF - Buffer Overflow 1** - Difficulty: **Easy**](https://adi7312.github.io/ctfs/picoCTF%20-%20buffer%20overflow%201/)
+* [**picoCTF - Buffer Overflow 2** - Difficulty: **Easy**](https://adi7312.github.io/ctfs/picoCTF%20-%20buffer%20overflow%202/)
+* [**picoCTF - VNE** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/picoCTF%20-%20VNE/)
 
 ## **Reversing**
 
@@ -27,10 +27,10 @@ I write some walktroughs to some CTF tasks. Some old writeups are written in pol
 * [**Crakmes.one - angry** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/Crackmes%20-%20angry/)
 * [**RootMe - PRNG Challenge** - Difficulty: **Hard**](https://adi7312.github.io/ctfs/RootMe%20-%20PRNG%20Challenge/)
 * [**RootMe - RSA Factorisation** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/RootMe%20-%20RSA%20Factorisation/)
-* [**picoCTF - Mini RSA** - Difficulty: **Easy**](https://adi7312.github.io/ctfs/picoctf%20-%20Mini%20RSA/)
-* [**picoCTF - Compress and Attack** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/picoctf%20-%20Compress%20and%20Attack/)
-* [**picoCTF - Mind your Ps and Qs** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/picoctf%20-%20mind%20your%20Ps%20and%20Qs/)
-* [**picoCTF - Sum-O-Primes** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/picoctf%20-%20Sum-O-Primes/)
+* [**picoCTF - Mini RSA** - Difficulty: **Easy**](https://adi7312.github.io/ctfs/picoCTF%20-%20Mini%20RSA/)
+* [**picoCTF - Compress and Attack** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/picoCTF%20-%20Compress%20and%20Attack/)
+* [**picoCTF - Mind your Ps and Qs** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/picoCTF%20-%20mind%20your%20Ps%20and%20Qs/)
+* [**picoCTF - Sum-O-Primes** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/picoCTF%20-%20Sum-O-Primes/)
 
 ## **Web:**
 
