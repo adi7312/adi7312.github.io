@@ -1,9 +1,5 @@
----
-title: HTB BufferOverflow
----
 
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/adi7312.png" alt="TryHackMe">
+## **Buffer overflow - THM**
 
 > This walktrough shows how to conduct buffer overflow, as an example I used tasks from "Buffer Overflow Prep" from [TryHackMe](https://tryhackme.com/room/bufferoverflowprep) site.
 
