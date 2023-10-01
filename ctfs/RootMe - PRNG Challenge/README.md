@@ -1,4 +1,4 @@
-# **Root-Me PRNG Challenge**
+**Root-Me PRNG Challenge**
 
 ### Statement
 
