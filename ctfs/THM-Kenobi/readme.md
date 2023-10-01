@@ -1,4 +1,4 @@
-# **THM - Kenobi (EN)**
+**THM - Kenobi (EN)**
 
 **Author:** adi7312
 
