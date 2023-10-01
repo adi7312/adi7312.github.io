@@ -1,4 +1,4 @@
-# **picoCTF 2023 - VNE**
+**picoCTF 2023 - VNE**
 
 > Description: We've got a binary that can list directories as root, try it out !!
 
