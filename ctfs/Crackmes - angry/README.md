@@ -1,4 +1,4 @@
-# **Crackmes - angry**
+**Objective:** Write key generator.
 
 ## Reversing `main()` with Ghidra and r2
 
