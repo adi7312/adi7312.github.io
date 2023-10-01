@@ -1,4 +1,4 @@
-# **CTF - Beelzebub**
+**CTF - Beelzebub**
 
 `Autor`: adi7312
 
