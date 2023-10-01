@@ -1,4 +1,4 @@
-# **Przeprowadzenie ataku *Buffer Overflow***
+
 
 Atak przeprowadzany jest na serwerze *vulnserver* - serwer osadzony jest w systemie *Windows 10* (IP: 192.168.201.128). Systemem operacyjnym maszyny atakującej jest *Parrot OS* (IP: 192.168.201.130).
 
