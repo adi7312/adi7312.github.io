@@ -1,4 +1,4 @@
-# **Crackmes.one - P@ssw0rd**
+**Objective:** Write decrypt function and get flag.
 
 ## **Reversing and uderstanding code**
 
