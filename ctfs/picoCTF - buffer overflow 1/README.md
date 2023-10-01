@@ -1,4 +1,4 @@
-# picoCTF - buffer overflow 1
+**picoCTF - buffer overflow 1**
 
 ### Binary protection
 
