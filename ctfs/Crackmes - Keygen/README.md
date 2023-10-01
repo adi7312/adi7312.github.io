@@ -1,7 +1,3 @@
----
-title: Crackmes - Keygen
-name: ""
----
 
 
 **Objective:** write keygen.
