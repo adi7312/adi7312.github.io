@@ -1,4 +1,4 @@
-# **TryHackMe - Blue**
+**TryHackMe - Blue**
 
 **Autor:** adi7312
 
