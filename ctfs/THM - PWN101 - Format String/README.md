@@ -1,4 +1,4 @@
-# **THM - PWN101 - Format String (PWN106)**
+**THM - PWN101 - Format String (PWN106)**
 
 
 ## **Gathering information**
