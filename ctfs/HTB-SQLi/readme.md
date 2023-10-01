@@ -1,4 +1,4 @@
-# **HTB - UNION-based SQL Injection**
+HTB Skill Assessment
 
 Author: `adi7312`
 
