@@ -11,7 +11,7 @@ I write some walktroughs to some CTF tasks. Some old writeups are written in pol
 
 ## **Binary/pwn:**
 
-* [**Conducting Buffer Overflow** - Difficulty: **Medium**](https://adi7312.github.io/CTFs/BufferOverflow/)
+* [**Conducting Buffer Overflow** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/BufferOverflow/)
 * [**HTB - Buffer Overflow Linux** - Difficulty: **Medium**](https://adi7312.github.io/CTFs/HTB-BufferOverflowLinux/)
 * [**ROP Emporium - ret2win** - Difficulty: **Medium**](https://adi7312.github.io/CTFs/ROP%20Emporium%20ret2win/)
 * [**THM - PWN101 - Integer Overflow** - Difficulty: **Medium**](https://adi7312.github.io/CTFs/THM%20-%20PWN101%20-%20Integer%20Overflow/)
