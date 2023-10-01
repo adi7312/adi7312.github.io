@@ -1,4 +1,4 @@
-# **HTB - Bufferoverflow Linux - Skill Assesment**
+HTB Skill Assessment
 
 ## **Filetype of `leave_msg`**
 
