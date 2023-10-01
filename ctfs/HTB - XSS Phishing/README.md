@@ -1,4 +1,3 @@
-# **XSS - Phishing (PL)**
 
 Autor: `adi7312`
 
