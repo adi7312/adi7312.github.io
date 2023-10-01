@@ -1,4 +1,4 @@
-# **picoCTF - Sum-O-Primes**
+**picoCTF - Sum-O-Primes**
 
 Script used to generate ciphertext and RSA parameters:
 
