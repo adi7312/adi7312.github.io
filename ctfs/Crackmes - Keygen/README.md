@@ -1,7 +1,7 @@
-
 ---
-name: CTF
+layout: page
 title: null
+permalink: /ctfs/
 ---
 
 # **Crakmes.one - cracknkeygen**
