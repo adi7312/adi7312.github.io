@@ -1,4 +1,4 @@
-# **THM - Overpass 2 [EN]**
+**THM - Overpass 2 [EN]**
 
 Author: `adi7312`
 
