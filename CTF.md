@@ -29,7 +29,8 @@ permalink: /ctfs/
 
 ## **Web:**
 
-* [**HTB - Conducting SQLi** - Difficulty: **Medium**](https://adi7312.github.io/ctfs/HTB-SQLi/)
+* [**HTB - Conducting SQLi**](https://adi7312.github.io/ctfs/HTB-SQLi/)
+* [**HTB - Desires**](https://adi7312.github.io/ctfs/HTB-Desires/)
 
 ## **Malware analysis**
 
