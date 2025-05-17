@@ -3,14 +3,13 @@ title: About me
 permalink: /
 ---
 
-I'm student of Cybersecurity at Warsaw University of Technology and Security Engineer at Samsung R&D. In context of security I'm interested in penetration testing, malware analysis and reverse engineering. In my spare time, I expand my knowledge in the area of operating systems and computer architecture.
+I'm student of Cybersecurity at Warsaw University of Technology and Security Engineer Intern at Samsung R&D. I'm interested in penetration testing, fuzzing, binary exploitation and reverse engineering. Additionaly I like to expand my knowledge in the area of operating systems and computer architecture. In my spare time I conduct security research of IoT devices.
 
-Skillset:
-* Security
-* Linux
-* C
+Programming languages:
+
+* C++
 * Python
-* Bash
+* Rust
 * Java
   
 
