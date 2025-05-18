@@ -7,7 +7,6 @@ description:
 
 markdown: kramdown
 kramdown:
-    math_engine: katex
 theme: minima
 
 minima:
