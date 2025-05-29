@@ -9,7 +9,7 @@ permalink: /proj-tools/
 * [**Automated vulnerability scanner**](https://github.com/adi7312/vuln-scan) - automation of vulnerability scanning process using OpenVAS, Docker and Python. Tool created for network administators. Contributors: [TeDeMos](https://github.com/TeDeMos). Technologies: **Python, Bash, Docker**
 * [**CMS - Ship fleet management**](https://github.com/wiktoz/armator) - content management system for ship fleet management. Contributors: [wiktoz](https://github.com/wiktoz). Technologies: **Java, Spring, Typescript.**
 * [**Network Detection and Response (NDR)**](https://github.com/adi7312/network-analysis) - network threat detection tool. Technologies: **Python, Scapy, NFStream**
-* [**PyAES**](https://github.com/adi7312/aes-rust) - python library with backend in Rust that provides AES in CTR mode. Technologies: **Python, Rust**
+* [**PyAES**](https://github.com/adi7312/aes-rust) - python library with backend in Rust that provides AES in CTR mode. Technologies: **Rust, Python**
 * [**Yarlang**](https://github.com/adi7312/yarlang) - interpreter of Yarlang lanaguage, which is general-purpose programming language with static and strong typing, supports pattern matching functionality. Technologies: **C++, CMake, libfuzzer**
 
 
